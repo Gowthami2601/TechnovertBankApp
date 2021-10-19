@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Technovert.BankApp.CLI/1.0.0": {
+        "runtime": {
+          "Technovert.BankApp.CLI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Technovert.BankApp.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

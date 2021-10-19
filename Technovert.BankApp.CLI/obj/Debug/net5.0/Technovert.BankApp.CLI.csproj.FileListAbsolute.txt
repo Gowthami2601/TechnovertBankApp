@@ -1,0 +1,16 @@
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\bin\Debug\net5.0\Technovert.BankApp.CLI.exe
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\bin\Debug\net5.0\Technovert.BankApp.CLI.deps.json
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\bin\Debug\net5.0\Technovert.BankApp.CLI.runtimeconfig.json
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\bin\Debug\net5.0\Technovert.BankApp.CLI.runtimeconfig.dev.json
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\bin\Debug\net5.0\Technovert.BankApp.CLI.dll
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\bin\Debug\net5.0\ref\Technovert.BankApp.CLI.dll
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\bin\Debug\net5.0\Technovert.BankApp.CLI.pdb
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\obj\Debug\net5.0\Technovert.BankApp.CLI.csproj.AssemblyReference.cache
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\obj\Debug\net5.0\Technovert.BankApp.CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\obj\Debug\net5.0\Technovert.BankApp.CLI.AssemblyInfoInputs.cache
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\obj\Debug\net5.0\Technovert.BankApp.CLI.AssemblyInfo.cs
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\obj\Debug\net5.0\Technovert.BankApp.CLI.csproj.CoreCompileInputs.cache
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\obj\Debug\net5.0\Technovert.BankApp.CLI.dll
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\obj\Debug\net5.0\ref\Technovert.BankApp.CLI.dll
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\obj\Debug\net5.0\Technovert.BankApp.CLI.pdb
+C:\Users\rani\source\repos\Technovert.BankApp\Technovert.BankApp.CLI\obj\Debug\net5.0\Technovert.BankApp.CLI.genruntimeconfig.cache
